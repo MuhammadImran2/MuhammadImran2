@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuhammadImran2
 - 👀 I’m interested in android app
 - 🌱 I’m currently learning Html Css JavaScript and Php
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Android Mobile App
 - 📫 How to reach me m07ansari@gmail.com
 
 <!---
